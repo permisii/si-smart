@@ -108,7 +108,7 @@
             <h1 class="text-2xl">Biaya Pendidikan</h1>
             <div class="bg-gray-800 w-full mb-8 h-1 absolute -top-1 left-0">&nbsp;</div>
         </div>
-        <div class="flex justify-between items-center flex-1 flex-wrap gap-48">
+        <div class="flex justify-between items-center flex-1 flex-wrap gap-12">
             <div class="flex flex-1 justify-between">
                 <div class="rounded-xl flex-1 h-96 flex flex-col shadow-lg justify-around pl-9 bg-gradient-to-r from-red-500 text-white">
                     <h3 class="text-4xl font-semibold">Sekolah Dasar</h3>
@@ -275,35 +275,35 @@
             <div class="flex flex-col gap-3">
                 <p class="w-1/2">Unlock Your Full Potential with Our Comprehensive Learning Solutions</p>
                 <p class="text-xl font-semibold tracking-wide">(+62) 813-9125-0606</p>
-                <a class="underline text-sm hover:text-amber-500 transition-all" href="">bimbelsmartsolution@gmail.com</a>
+                <a class="underline text-sm hover:text-amber-500 transition-all w-fit" href="">bimbelsmartsolution@gmail.com</a>
             </div>
         </div>
         <div class="flex flex-1 flex-col gap-3">
             <h3 class="font-semibold text-xl">Navigation</h3>
-            <a class="hover:text-amber-500 transition-all" href="#tentang">Tentang</a>
-            <a class="hover:text-amber-500 transition-all" href="#program">Program</a>
-            <a class="hover:text-amber-500 transition-all" href="#biaya">Biaya Pendidikan</a>
-            <a class="hover:text-amber-500 transition-all" href="#kontak">Kontak</a>
-            <a class="hover:text-amber-500 transition-all" href="#lokasi">Lokasi</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#tentang">Tentang</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#program">Program</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#biaya">Biaya Pendidikan</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#kontak">Kontak</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#lokasi">Lokasi</a>
         </div>
         <div class="flex flex-1 flex-col gap-3">
             <h3 class="font-semibold text-xl">Layanan</h3>
-            <a class="hover:text-amber-500 transition-all" href="#">Rekrutmen Instruktur</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Pengajuan Kelas Privat</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Mitra</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Pertanyaan</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Rekrutmen Instruktur</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Pengajuan Kelas Privat</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Mitra</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Pertanyaan</a>
         </div>
         <div class="flex flex-1 flex-col gap-3">
             <h3 class="font-semibold text-xl">FAQ</h3>
-            <a class="hover:text-amber-500 transition-all" href="#">Pertanyaan Umum</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Pertanyaan Teknis</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Panduan Penggunaan</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Pertanyaan Umum</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Pertanyaan Teknis</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Panduan Penggunaan</a>
         </div>
         <div class="flex flex-1 flex-col gap-3">
             <h3 class="font-semibold text-xl">Syarat dan Ketentuan</h3>
-            <a class="hover:text-amber-500 transition-all" href="#">Kebijakan Privasi</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Syarat dan Ketentuan Penggunaan</a>
-            <a class="hover:text-amber-500 transition-all" href="#">Disclaimer</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Kebijakan Privasi</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Syarat dan Ketentuan Penggunaan</a>
+            <a class="hover:text-amber-500 transition-all w-fit" href="#">Disclaimer</a>
         </div>
     </footer>
 </body>
